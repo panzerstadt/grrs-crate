@@ -1,5 +1,7 @@
 [package]
 name = "grrs-panzerstadt"
+description = "test crate dont install pls"
+readme = "README.md"
 authors = ["panzerstadt <tliqun@gmail.com>"]
 version = "0.1.0"
 license = "MIT"
